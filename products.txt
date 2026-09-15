@@ -1,0 +1,14 @@
+Product_1:
+Name: Laptop
+Category: Electronics
+Stock: Available
+
+Product_2:
+Name: Smartphone
+Category: Electronics
+Stock: Available
+
+Product_3:
+Name: Headphones
+Category: Accessories
+Stock: Out of Stock
