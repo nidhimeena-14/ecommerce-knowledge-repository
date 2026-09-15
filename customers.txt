@@ -1,0 +1,7 @@
+Customer_1:
+Name: Customer A
+Type: Regular Customer
+
+Customer_2:
+Name: Customer B
+Type: Premium Customer
