@@ -1,0 +1,15 @@
+Rule 1:
+IF payment status is Successful
+THEN order status is Confirmed.
+
+Rule 2:
+IF product stock is Out of Stock
+THEN order cannot be Confirmed.
+
+Rule 3:
+IF order status is Confirmed
+THEN order can be processed for shipping.
+
+Rule 4:
+IF order is Shipped
+THEN shipping status is In Transit.
