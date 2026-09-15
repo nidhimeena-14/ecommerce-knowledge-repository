@@ -1,0 +1,11 @@
+Order_101:
+Customer: Customer_1
+Product: Product_1
+Quantity: 1
+Status: Confirmed
+
+Order_102:
+Customer: Customer_2
+Product: Product_3
+Quantity: 2
+Status: Pending
